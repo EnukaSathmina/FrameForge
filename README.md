@@ -1,2 +1,23 @@
-# FrameForge
-FrameForge is a Python-based video processing tool that combines motion blur simulation and video rendering using OpenCV and FFmpeg. It provides a real-time preview system with adjustable motion blur intensity and supports high-quality video export with customizable FPS settings.
+# 🎬 FrameForge AI
+
+FrameForge is a lightweight desktop video processing tool built with Python, PyQt6, OpenCV, and FFmpeg.  
+It allows users to apply real-time motion blur effects and export high-quality rendered videos with customizable settings.
+
+---
+
+## ✨ Features
+
+- 🎥 Real-time video preview
+- 🌫️ Adjustable motion blur intensity (0–100)
+- ⚡ High-speed video rendering using FFmpeg
+- 🎯 Custom FPS output (60 / 90 / 120 / 240 / 360)
+- 🖥️ Clean dark UI built with PyQt6
+- 📦 Portable design (can be packaged into EXE)
+
+---
+
+## 📷 Preview
+
+> 
+
+Example:
